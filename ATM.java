@@ -87,3 +87,4 @@ import java.util.Scanner;
     }  
 	
 
+// If you are going to copy the whole code i would recomend to do it from line number 7. Also you can add different card numbers and their pin if you want to try. Cheers !!!
